@@ -6,8 +6,7 @@
 
 ## Summary
 
-An end-to-end governed data + AI product built on Databricks Free Edition, starting from three CSV files of oil & gas production data. The project stands up a star
-schema in Unity Catalog, adds AI-assisted metadata, exposes the data through a Genie Space and an AI/BI dashboard, trains and registers a production forecasting model, and serves history + forecast through a lightweight Databricks App.
+An end-to-end governed data + AI product built on Databricks Free Edition, starting from three CSV files of oil & gas production data. The project stands up a star schema in Unity Catalog, adds AI-assisted metadata, exposes the data through a Genie Space and an AI/BI dashboard, trains and registers a production forecasting model, and serves history + forecast through a lightweight Databricks App.
 
 ## Architecture
 
